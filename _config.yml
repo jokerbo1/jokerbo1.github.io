@@ -1,6 +1,6 @@
 title: 串串香
 description: Dinky is a red hot theme for GitHub Pages.
 show_downloads: false
-google_analytics:false
+google_analytics:
 theme: Dinky theme
-seurl:/zycblog
+

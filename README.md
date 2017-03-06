@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Dinky theme
 
 [![Build Status](https://travis-ci.org/pages-themes/dinky.svg?branch=master)](https://travis-ci.org/pages-themes/dinky) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-dinky.svg)](https://badge.fury.io/rb/jekyll-theme-dinky)
@@ -90,3 +91,7 @@ If you'd like to preview the theme locally (for example, in the process of propo
 ### Running tests
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` one before the test script will work.
+=======
+# zycblog
+zycblog
+>>>>>>> 2451c57bbd9a8df1ef3821724e0b1bea7bbe2de8

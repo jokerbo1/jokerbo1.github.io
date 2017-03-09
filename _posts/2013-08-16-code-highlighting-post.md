@@ -97,6 +97,6 @@ Indentation matters. Be sure the indent of the code block aligns with the first 
 
 ### GitHub Gist Embed
 
-An example of a Gist embed below.
+<!--An example of a Gist embed below.
 
-{% gist mmistakes/6589546 %}
+{% gist mmistakes/6589546 %}-->

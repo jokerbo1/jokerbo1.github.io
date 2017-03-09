@@ -1,4 +1,4 @@
----
+<!-----
 layout: page
 title: About the Jekyll Theme
 image:
@@ -29,4 +29,4 @@ If you've used any of [my other themes](http://mademistakes.com/work/jekyll-them
 
 <div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
 
-[^1]: Example: *domain.com/category-name/post-title*
+[^1]: Example: *domain.com/category-name/post-title*-->
